@@ -3,9 +3,9 @@
     android:orientation="vertical"
     android:layout_width="match_parent"> 
 	<ImageView android:src="@drawable/ic_protonplus"
-	    android:layout_gravity="center"
+	    android:layout_gravity="left"
 	    android:layout_width="match_parent"
 		android:layout_marginLeft="20dp"
 		android:layout_marginRight="20dp"
-	    android:layout_height="120dp"/>
+	    android:layout_height="100dp"/>
 </LinearLayout>
